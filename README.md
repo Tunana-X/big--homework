@@ -100,3 +100,33 @@ src/
 ## 贡献
 
 欢迎贡献！请遵循标准的GitHub fork-and-pull请求工作流程。
+
+## 使用教程
+自行配置好IDEA专业版（可高校认证）、JDK1.8（必须）、Mysql8、Maven3.5以上版本
+
+### 配置数据库：
+![image](https://github.com/user-attachments/assets/d3e68cbf-8b55-4098-b85b-ef145ab3862e)
+根据自己的数据库进行修改。需要先运行.sql文件部署数据库。
+
+### Maven配置
+File（文件）---Setting（设置），选择你的maven安装的根目录
+User setting File：Maven的配置文件路径
+![image](https://github.com/user-attachments/assets/1fa426a9-5ebc-476d-a4d5-bbbf955fc1d6)
+
+### 编码配置
+选中项目后，点击FIle-Settings
+![image](https://github.com/user-attachments/assets/fac29b93-d421-437e-a1f3-ddd923e38103)
+![image](https://github.com/user-attachments/assets/9e91ac94-0ffc-4ff4-93e8-4ff845169a4f)
+
+### JDK配置
+File-Project Structure
+![image](https://github.com/user-attachments/assets/2149ba7b-1e90-4ccf-aec5-4c9514c1db7b)
+如果没有配置过JDK，点击New，选择JDK目录加载一个JDK
+![image](https://github.com/user-attachments/assets/609beee5-3197-46bf-b195-12bd5a5c9b09)
+![image](https://github.com/user-attachments/assets/ac726eac-a8e4-4de8-9aef-25173e2b9e9d)
+
+### 浏览地址
+前台访问地址：http://localhost:8088
+用户：test		111111
+后台访问地址：http://localhost:8088/admin
+系统管理员：admin 	111111
