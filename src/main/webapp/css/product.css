@@ -1,0 +1,100 @@
+
+
+#product_info .productShow{
+	width:100%;
+	overflow:hidden;
+}
+
+#product_info .productShow .typehr{
+    height:5px;
+	width:100%;
+	border-bottom: 1px solid whitesmoke;
+	overflow:hidden;
+}
+
+#product_info .productShow .pictext{
+	width:100%;
+	height:350px;
+	overflow:hidden;
+}
+
+#product_info .pictext .leftpic{
+	float:left;
+	width:450px;
+	height:350px;
+	overflow:hidden;
+}
+
+#product_info .pictext .leftpic img{
+	width:440px;
+	height:350px;
+	border-radius:10px;
+	overflow:hidden;
+}
+
+#product_info .pictext .righttext{
+	float:left;
+	margin-left:10px;
+	width:455px;
+	height:350px;
+	overflow:hidden;
+}
+
+#product_info .textTitle{
+	width:100%;
+	height:50px;
+	line-height:50px;
+	color:#000;
+	font-size:20px;
+	font-weight:bold;
+	overflow:hidden;
+}
+
+#product_info .introTitle{
+	width:100%;
+	box-sizing: border-box;
+	padding-left:15px;
+	height:50px;
+	line-height:50px;
+	color:#CC9933;
+	font-size:16px;
+	overflow:hidden;
+}
+
+#product_info .righttext .textTop{
+	height:240px;
+	line-height:40px;
+	text-align:left;
+	font-size:16px;
+	overflow:hidden;
+}
+
+#product_info .righttext .textBtn{
+	height:60px;
+	line-height:60px;
+	text-align:left;
+	font-size:14px;
+	overflow:hidden;
+}
+
+#product_info .productShow .intro{
+	width:100%;
+	line-height:30px;
+	box-sizing: border-box;
+	margin-top:5px;
+	padding:20px;
+	padding-left:40px;
+	font-size:14px;
+	overflow:hidden;
+}
+#product_info .btnAdd{
+	CURSOR: pointer;
+	COLOR: white;
+	HEIGHT: 40px;
+	background-repeat: repeat-x;
+	border: 1px solid #FF5000;
+	background-color:#FF5000;
+	vertical-align:text-bottom;
+	border-radius: 5px 5px 5px 5px;
+	font-size:14px;
+}

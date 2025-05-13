@@ -1,0 +1,22 @@
+
+.regTable{
+	margin-top:5px;
+	margin-bottom:15px;
+	width:99%;
+	border-collapse: collapse;
+	border:1px solid whitesmoke;
+}
+ .regTable td{
+	padding:5px;
+ 	height:40px;
+ }
+ .regTable input{
+ 	height:30px;
+ }
+
+.regTable .theme{
+ 	height:28px;
+	background-image:url('../images/wbg.gif');
+	font-weight:bold;
+}
+
